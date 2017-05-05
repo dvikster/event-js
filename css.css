@@ -55,4 +55,5 @@ body{
     top:0;
     left:-200px;
     transition: 2s;
+    z-index:20;
 }
